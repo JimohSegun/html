@@ -1,0 +1,26 @@
+html {
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: #2d2c2c;
+    color: whitesmoke;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: lightgray;
+}
+
+a:hover,
+a:active {
+    color: #eee;
+}
+
+table, tr, th, td, caption {
+    border-collapse: collapse;
+    border: 1px solid #fff;
+}
