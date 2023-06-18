@@ -1,4 +1,4 @@
-# This Is My First HTML Project 
+# This Is My HTML Project 
 
 *It's an extremely simple design
 *I added a minimal style in the table content
